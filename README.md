@@ -23,6 +23,7 @@ The only official sources are:
 
 <!-- no official site warning -->
 > [!CAUTION]
+> This project is **not** finished or even remotely usable. This is just a proof of concept
 > We do **not** have a website. The only official place to download Natro Macro is this repository and [discord.gg/natromacro][discord-link].
 
 <div align="center">
